@@ -18,15 +18,11 @@ b)	Call the `display(8, 9)` method on the `ad` object
 7.	End
 
 
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a access modifiers using Java
-Developed by: Mohammed Safi F
+Developed by: MOHAMMED SAFI F
 RegisterNumber: 212224060156
 */
 ```
