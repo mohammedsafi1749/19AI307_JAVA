@@ -15,13 +15,11 @@ To create a java program using StringTokenizer class that tokenizes a string "My
 6.	End
 
 
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a String Tokenizer using Java
-Developed by: Mohammed Safi F
+Developed by: MOHAMMED SAFI F
 RegisterNumber: 212224060156
 */
 ```
