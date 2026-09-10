@@ -15,15 +15,11 @@ To Create a java program use replace() method replaces the given String from the
 7.	End
 
 
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a String Builder using Java
-Developed by: Mohammed Safi F
+Developed by: MOHAMMED SAFI F
 RegisterNumber: 212224060156
 */
 ```
