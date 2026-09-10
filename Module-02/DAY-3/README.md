@@ -20,13 +20,11 @@ To create a java program to read 5 values and display the all 5 values from arra
 
 
 
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Single Array using Java
-Developed by: Mohammed Safi F
+Developed by: MOHAMMED SAFI F
 RegisterNumber: 212224060156
 */
 ```
