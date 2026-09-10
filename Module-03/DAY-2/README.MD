@@ -16,15 +16,11 @@ To develop a java program use append() method concatenates the given argument wi
 
 
 
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a String Buffer using Java
-Developed by: Mohammed Safi F
+Developed by: MOHAMMED SAFI F
 RegisterNumber:  212224060156
 */
 ```
